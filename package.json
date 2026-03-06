@@ -11,5 +11,8 @@
   ],
   "author": "DeepUrls",
   "license": "MIT",
-  "description": "DeepUrls Web SDK"
+  "description": "DeepUrls Web SDK",
+  "dependencies": {
+    "crypto-js": "^4.2.0"
+  }
 }

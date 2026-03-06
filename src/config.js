@@ -1,6 +1,3 @@
-const fs = require("fs");
-const path = require("path");
-
 let config = null;
 
 function init(userConfig) {
