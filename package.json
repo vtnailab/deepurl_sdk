@@ -2,6 +2,7 @@
   "name": "deepurls-web-sdk",
   "version": "1.0.0",
   "main": "src/index.js",
+  "types": "deepurls-web-sdk.d.ts",
   "keywords": [
     "deeplink",
     "deep-linking",
