@@ -1,0 +1,14 @@
+{
+  "name": "deepurls-web-sdk",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "keywords": [
+    "deeplink",
+    "deep-linking",
+    "url",
+    "sharing"
+  ],
+  "author": "DeepUrls",
+  "license": "MIT",
+  "description": "DeepUrls Web SDK"
+}
