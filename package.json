@@ -1,6 +1,7 @@
 {
   "name": "deepurls-web-sdk",
   "version": "1.0.0",
+  "type": "module",
   "main": "src/index.js",
   "types": "deepurls-web-sdk.d.ts",
   "keywords": [

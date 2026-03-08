@@ -1,7 +1,4 @@
-const { init } = require("./config");
-const { createLink } = require("./api");
+import { init } from "./config.js";
+import { createLink } from "./api.js";
 
-module.exports = {
-    init,
-    createLink
-};
+export { init, createLink };
